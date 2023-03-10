@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.scss';
+import ProductGrid from './ProductGrid';
 
 function App() {
-  return <div className="App">Hello world!</div>;
+  return <ProductGrid />;
 }
 
 export default App;
