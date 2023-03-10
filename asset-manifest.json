@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merch/static/css/main.01103d03.css",
+    "main.js": "/merch/static/js/main.de55b70b.js",
+    "index.html": "/merch/index.html",
+    "main.01103d03.css.map": "/merch/static/css/main.01103d03.css.map",
+    "main.de55b70b.js.map": "/merch/static/js/main.de55b70b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01103d03.css",
+    "static/js/main.de55b70b.js"
+  ]
+}
